@@ -13,7 +13,8 @@ testing
 
 ## Reflection
 ------------------------
-
+Overall this project went well for us. Jack was able to implement the the DFA and DFAState
+java files. Alec was responsible for uploading and testing on onyx to fix any failed tests. 
 
 
 ## Compiling and Using
